@@ -1,14 +1,23 @@
 {
-  "name": "Natours",
+  "name": "natours",
   "version": "1.0.0",
-  "description": "Landing page for natours",
+  "description": "Project using Advanced CSS and Sass",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass" : "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhnprksh222/Natours.git"
   },
   "author": "bhanu",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhnprksh222/Natours/issues"
+  },
+  "homepage": "https://github.com/bhnprksh222/Natours#readme",
   "devDependencies": {
     "node-sass": "^4.13.1"
   }
 }
+ 
