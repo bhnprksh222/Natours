@@ -7,3 +7,4 @@ Project using Advanced CSS and Sass
 - Using the powerful work of "MIXINS".
 - Followed BEM notation
 - Followed 7-in-1 method.
+- Used @supports in SASS to check working of styles applied.
