@@ -1,5 +1,5 @@
 # Natours
-Project using Advanced CSS and Sass
+Project using Advanced CSS and Sass/SCSS
 
 - Learnt how to install node and npm packages.
 - How to use live-server package and node-sass.
